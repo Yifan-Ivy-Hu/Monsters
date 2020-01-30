@@ -1,6 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Monster Website
 
-## Available Scripts
+In this project, I get familiar with basic of react.js
+
+
+##Demo
+
+You can download sources files and run on [http://localhost:3000](http://localhost:3000)
+
+![pic1](/demo/pic1.png)
+
+##Features
+Filter monsters by keyword in their names
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ -->
+
+
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
@@ -65,4 +81,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
