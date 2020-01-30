@@ -3,13 +3,13 @@
 In this project, I get familiar with basic of react.js
 
 
-##Demo
+## Demo
 
 You can download sources files and run on [http://localhost:3000](http://localhost:3000)
 
 ![pic1](/demo/pic1.png)
 
-##Features
+## Features
 Filter monsters by keyword in their names
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
